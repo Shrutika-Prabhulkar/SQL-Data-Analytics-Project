@@ -1,2 +1,12 @@
 # SQL-Data-Analytics-Project
-Scripts cover various analyses such as database exploration, measures and metrics, time-based trends, cumulative analytics, segmentation.
+SQL queries cover  analyses such as database exploration, measures & metrics, time-based trends, cumulative analytics, segmentation.
+
+SQL-based analytics to deliver detailed insights into:
+
+Customer Behavior
+
+Product Performance
+
+Sales Trends
+
+
